@@ -40,3 +40,5 @@ else:
     resultado = "Escolha inválida!"  # Se a escolha for inválida, exibe uma mensagem de erro
 
 print(resultado)  # Exibe o resultado do jogo
+
+https://colab.research.google.com/drive/1ad_JA0idkLant_tV5gNZHrIcHbBISytV#scrollTo=S0lCPVt7a9CE&line=40&uniqifier=1
